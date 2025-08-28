@@ -3,7 +3,7 @@
 
 A C++-based console application simulating a comprehensive banking system. It provides account management, transactions, user management, and currency exchange features with text-based data storage.
 
----
+
 
 ## Features
 
@@ -31,7 +31,7 @@ A C++-based console application simulating a comprehensive banking system. It pr
 - Manage exchange rates  
 - View global currencies and codes  
 
----
+
 
 ## Project Structure
 
@@ -62,7 +62,7 @@ The system uses plain text files for data storage:
 - **LoginRegister.txt** – Stores login activity logs  
 - **TransferLog.txt** – Stores transfer history  
 
----
+
 
 ## File Formats
 
@@ -94,7 +94,7 @@ France#//#EUR#//#Euro#//#0.900000
 
 ````
 
----
+
 
 ## Security Features
 
@@ -108,7 +108,7 @@ France#//#EUR#//#Euro#//#0.900000
 - Operation authorization checks  
 - Activity logging  
 
----
+
 
 ## Example Code Usage
 
@@ -163,7 +163,7 @@ clsUser::Find(UserName, Password);
 User.CheckAccessPermission(Permission);
 ```
 
----
+
 
 ## Getting Started
 
@@ -177,7 +177,7 @@ User.CheckAccessPermission(Permission);
 4. Build and run `Project_Files/Bank.cpp`.
 5. Log in with default credentials (see `Users.txt`).
 
----
+
 
 
 ## Screenshots
@@ -200,7 +200,7 @@ User.CheckAccessPermission(Permission);
 ### User Management Screen
 ![User Management](Resources/User%20Managment%20(2).png)
 
----
+
 
 ## Extending Functionality
 
@@ -208,7 +208,7 @@ User.CheckAccessPermission(Permission);
 * Expand client and currency datasets.
 * Add new transaction types or reporting features.
 
----
+
 
 
 ## Author
@@ -217,4 +217,4 @@ User.CheckAccessPermission(Permission);
 GitHub: [@khalidalqawsi](https://github.com/khalidalqawsi)
 Email: khalidalqawsi@gmail.com
 
----
+

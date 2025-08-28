@@ -179,6 +179,29 @@ User.CheckAccessPermission(Permission);
 
 ---
 
+
+## Screenshots
+
+### Login Screen
+![Login Screen](Resources/Login%20Screen.png)
+
+### Main Menu Screen
+![Main Menu](Resources/Main%20Screen.png)
+
+### Client List Screen
+![Client List](Resources/Cleint%20List.png)
+
+### Transaction Screen
+![Transaction Example](Resources/Transaction%20Screen.png)
+
+### Currency Exchange Screen
+![Currency Exchange](Resources/Currency%20Exchange.png)
+
+### User Management Screen
+![User Management](Resources/User%20Managment%20(2).png)
+
+---
+
 ## Extending Functionality
 
 * Implement `InterfaceCommunication` to enable Email, Fax, or SMS notifications.
